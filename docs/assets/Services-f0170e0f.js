@@ -1,0 +1,1 @@
+import{_,b as o,d as t,e as s}from"./index-ea3e3821.js";const n={class:"services"},r={__name:"Services",setup(a){return(c,e)=>(o(),t("div",n,e[0]||(e[0]=[s("h1",null,"Our Services",-1),s("p",null,"Explore our web design, development, and eLearning solutions.",-1)])))}},i=_(r,[["__scopeId","data-v-347b188a"]]);export{i as default};
