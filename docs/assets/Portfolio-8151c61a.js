@@ -1,1 +1,0 @@
-import{_ as t,o as s,a as _,d as e}from"./index-450139d4.js";const r={class:"portfolio"},a={__name:"Portfolio",setup(l){return(c,o)=>(s(),_("div",r,o[0]||(o[0]=[e("h1",null,"Portfolio",-1),e("p",null,"Check out our previous projects and case studies.",-1)])))}},p=t(a,[["__scopeId","data-v-42230b90"]]);export{p as default};
